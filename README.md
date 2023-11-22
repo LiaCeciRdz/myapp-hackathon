@@ -1,2 +1,1 @@
-# myapp-hackathon
-myapp-hackathon
+# ARCHITECTURE CHAMPIONSHIP CORE SERVICES BY COMPUCLOUD
